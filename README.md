@@ -8,13 +8,12 @@ Welcome to the **Agentic AI Hub**, a growing collection of AI agent–based proj
 
 Each entry below links to a standalone repository showcasing a unique AI agent implementation.
 
-| # | Project Title | Description | Repo Link |
-|---|---------------|-------------|-----------|
+| # | Project Title              | Description                                                                                      | Repo Link                                                                 |
+|---|----------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | 1 | **AI Water Intake Tracker** | Tracks daily hydration using FastAPI + Gemini + LangChain. Includes logging, analytics, and AI feedback. | [🔗 View Repo](https://github.com/BrijeshRakhasiya/Tracking-Daily-Water-Intake) |
+| 2 | **AI-Powered Trip Planner** | Generates personalized travel itineraries using CrewAI, Streamlit, and Ollama LLM. Includes multi-agent planning, real-time search, and downloadable output. | [🔗 View Repo](https://github.com/BrijeshRakhasiya/Trip-Planner-Agent.git) |
 
-
-
-
+---
 
 ## 🧩 What Is Agentic AI?
 
