@@ -12,6 +12,7 @@ Each entry below links to a standalone repository showcasing a unique AI agent i
 |---|----------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | 1 | **AI Water Intake Tracker** | Tracks daily hydration using FastAPI + Gemini + LangChain. Includes logging, analytics, and AI feedback. | [🔗 View Repo](https://github.com/BrijeshRakhasiya/Tracking-Daily-Water-Intake) |
 | 2 | **AI-Powered Trip Planner** | Generates personalized travel itineraries using CrewAI, Streamlit, and Ollama LLM. Includes multi-agent planning, real-time search, and downloadable output. | [🔗 View Repo](https://github.com/BrijeshRakhasiya/Trip-Planner-Agent.git) |
+| 3 | **Video Caption Generatorr** | Transcribe videos and generate captions using Whisper + FFmpeg with a Streamlit UI | [🔗 View Repo](https://github.com/BrijeshRakhasiya/Video-Caption-Generator.git) |
 
 ---
 
